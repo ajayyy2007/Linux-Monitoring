@@ -233,3 +233,9 @@ Possible future improvements include:
 ## 👨‍💻 Author
 
 Built as a hands-on Linux and Bash scripting project while learning DevOps.
+
+
+Example output image:
+
+<img width="938" height="888" alt="image" src="https://github.com/user-attachments/assets/f671e7e4-d401-4590-89b3-672f70e5851d" />
+
